@@ -1,4 +1,5 @@
 #--Codigo generado con la ayuda de ChatGPT--#
+#Link de GitHub: https://github.com/Ixaaias/HDT5-.git
 import simpy
 import numpy as np
 import matplotlib.pyplot as plt
